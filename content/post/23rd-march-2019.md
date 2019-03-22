@@ -10,4 +10,4 @@ Click to get your resources!
 
 <!--more-->
 
-<h1><a target="_blank" href='https://create.kahoot.it/share/m2l1-refresher/107974bc-9a6b-4def-807f-3228fcb17d4e'>Kahoot link</a></h1>
+<h1><a target="_blank" href='https://drive.google.com/open?id=1LY8Xpd7hKMmBhNRp8CmbnpwB6Fl0PlOo'>JS Code Along Base Project</a></h1>
