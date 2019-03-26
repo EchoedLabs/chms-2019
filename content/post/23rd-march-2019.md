@@ -17,20 +17,38 @@ Updated with post class overview!
 1. <a target="_blank" href="https://drive.google.com/open?id=1ba1grwOlGlXX7DvuWfZ95ZWfDbe0BVBkIgBSSkkgU44">Slides</a>
 2. <a target="_blank" href='https://drive.google.com/open?id=1LY8Xpd7hKMmBhNRp8CmbnpwB6Fl0PlOo'>JS Code Along Base Project</a>
 
-# Post Class Overview
 *Here is a link to the finished [Code Along project](/code-along/js2).*
-## What we covered
+# What we covered
 
-### document.getElementById
+## console.log
+In our words, it is an easy way to see the value of a variable. For more information - [visit this link](https://www.w3schools.com/jsref/met_console_log.asp)
+
+## document.getElementById
 `document.getElementById` returns the **HTML element** and not the value that it is having. 
 
 ```html
 <input type='number' id='firstNumber' placeholder='First number' />
 ```
 
-```javascript
+```js
 const element = document.getElementById("firstNumber");
 const firstNumberAsAString = element.value; // firstNumberAsAString is currently a string.
 const firstNumber = parseInt(firstNumberAsAString); // firstNumber is now an number. We can do math!
+```
+
+## Quick introduction to functions
+*For a breakdown of how a function is made of, view slide 5*
+
+**Declaring a function**
+```js
+function addTwoNumbers(firstNumber, secondNumber){
+  return firstNumber + secondNumber;
+}
+```
+
+**Invoking the new function that we just made**
+```js
+const sum = addTwoNumber(5023, 1230);
+console.log(sum) // it will print 6253.
 ```
 
