@@ -1,14 +1,14 @@
 ---
-title: "{{ replace .Name "-" " " }}"
-date: {{ .Date }}
+title: "30th March 2019"
+date: 2019-03-27T09:19:14+08:00
 draft: false
 author: "Muhammad Syafiq Hanafee"
 cover: "INSERT_LINK_HERE"
-description: "It is all about {{ replace .Name "-" " " }}"
+description: "It is all about 30th March 2019"
 tags: ['Post Class Overview']
 ---
 
-All you need to know about {{ replace .Name "-" " " }}
+All you need to know about 30th March 2019
 
 <!--more-->
 

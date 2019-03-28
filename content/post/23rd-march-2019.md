@@ -5,6 +5,8 @@ cover: "/images/cover.jpg"
 date: 2019-03-23T01:07:38+08:00
 draft: false
 tags: ['Post Class Overview']
+description: "It is all about 23rd March 2019"
+
 ---
 
 Updated with post class overview!
