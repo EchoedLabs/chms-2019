@@ -18,4 +18,4 @@ All you need to know about 30th March 2019
 1. <a target="_blank" href="insert_google_drive_slides_link">Slides</a>
 2. <a target="_blank" href='insert_code_along_download_link'>JS Code Along Base Project</a>
 
-*Here is a link to the finished [Code Along project](/code-along/insert_ca_folder_name).*
+*Here is a link to the finished [Code Along project](/code-along/js3).*
