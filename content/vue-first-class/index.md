@@ -22,6 +22,12 @@ Introduction video referenced in class with everyone
 <a target="_blank" href="https://www.youtube.com/watch?v=2MAoq2-2nnE&list=PL4cUxeGkcC9gQcYgjhBoeQH7wiAyZNrYa&index=4">
 Vue methods as JS methods!
 </a><strong>
+<br />
+<strong>
+<a target="_blank" href="https://www.youtube.com/watch?v=0EJqZLcwVLY&list=PL4cUxeGkcC9gQcYgjhBoeQH7wiAyZNrYa&index=12">
+Remember booleans? Let's make some HTML appear and disappear from boolean variables! (We call this conditionals)
+</a><strong>
+
 
 ## Test your understanding
 **Link will be made available the moment you are done with your lessons**
