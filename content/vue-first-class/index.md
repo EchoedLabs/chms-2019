@@ -11,6 +11,7 @@ Javascript** knowledge that you have been equipped with last semester.
 <strong><a target="_blank" href="https://www.youtube.com/watch?v=DsuTwV0jwaY&feature=youtu.be">
 Introduction video referenced in class with everyone
 </a></strong>
+<br />
 <strong>
 <a target="_blank" href="https://www.youtube.com/watch?v=5LYrN_cAJoA&list=PL4cUxeGkcC9gQcYgjhBoeQH7wiAyZNrYa&index=1">Introduction </a><strong>
 <br />
