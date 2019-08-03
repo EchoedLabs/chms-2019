@@ -9,23 +9,23 @@ Javascript** knowledge that you have been equipped with last semester.
 
 ## Video Tutorials
 <strong><a target="_blank" href="https://www.youtube.com/watch?v=DsuTwV0jwaY&feature=youtu.be">
-Introduction video referenced in class with everyone
+1. Introduction video referenced in class with everyone
 </a></strong>
 <br />
 <strong>
-<a target="_blank" href="https://www.youtube.com/watch?v=5LYrN_cAJoA&list=PL4cUxeGkcC9gQcYgjhBoeQH7wiAyZNrYa&index=1">Introduction </a><strong>
+<a target="_blank" href="https://www.youtube.com/watch?v=5LYrN_cAJoA&list=PL4cUxeGkcC9gQcYgjhBoeQH7wiAyZNrYa&index=1">2. Introduction </a><strong>
 <br />
 <strong>
-<a target="_blank" href="https://www.youtube.com/watch?v=3ROjxrSa5pk&list=PL4cUxeGkcC9gQcYgjhBoeQH7wiAyZNrYa&index=2">What exactly is Vue? How does it help?</a><strong>
+<a target="_blank" href="https://www.youtube.com/watch?v=3ROjxrSa5pk&list=PL4cUxeGkcC9gQcYgjhBoeQH7wiAyZNrYa&index=2">3. What exactly is Vue? How does it help?</a><strong>
 <br />
 <strong>
 <a target="_blank" href="https://www.youtube.com/watch?v=2MAoq2-2nnE&list=PL4cUxeGkcC9gQcYgjhBoeQH7wiAyZNrYa&index=4">
-Vue methods as JS methods!
+4. Vue methods as JS methods!
 </a><strong>
 <br />
 <strong>
 <a target="_blank" href="https://www.youtube.com/watch?v=0EJqZLcwVLY&list=PL4cUxeGkcC9gQcYgjhBoeQH7wiAyZNrYa&index=12">
-Remember booleans? Let's make some HTML appear and disappear from boolean variables! (We call this conditionals)
+5. Remember booleans? Let's make some HTML appear and disappear from boolean variables! (We call this conditionals)
 </a><strong>
 
 
