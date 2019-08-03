@@ -34,10 +34,11 @@ copyright = "EchoedLabs LLP"            # default: author.name ↓        # 默�
   identifier = "home"
   url = "/"
 [[menu.main]]
-  name = "Archives"
+  name = "Vue Module"
   weight = 20
-  identifier = "archives"
-  url = "/post/"
+  identifier = "modules"
+  url = "/modules/"
+
 #[[menu.main]]
 # name = "Tags"
 #  weight = 30

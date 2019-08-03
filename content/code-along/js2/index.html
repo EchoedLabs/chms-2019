@@ -68,40 +68,61 @@
 </body>
 
 <script>
-  const firstNumberElement = document.getElementById('first-number');
-  const secondNumberElement = document.getElementById('second-number');
-  const answerElement = document.getElementById('final-answer');
 
-  function addNumbers() {
+  function getFirstNumber(){
+    const firstNumberElement = document.getElementById('first-number');
     const firstNumber = parseInt(firstNumberElement.value);
+
+    return firstNumber;
+  }
+
+  function getSecondNumber(){
+    const secondNumberElement = document.getElementById('second-number');
     const secondNumber = parseInt(secondNumberElement.value);
 
-    const answer = firstNumber + secondNumber;
+    return secondNumber;
+  }
+
+  function writeAnswerToScreen(answer){
+    const answerElement = document.getElementById('final-answer');
+
     answerElement.innerHTML = answer;
+  }
+
+  function addNumbers() {
+    const firstNumber = getFirstNumber();
+    const secondNumber = getSecondNumber();
+
+    const answer = firstNumber + secondNumber;
+
+    writeAnswerToScreen(answer);
   }
 
   function subtractNumbers(){
-    const firstNumber = parseInt(firstNumberElement.value);
-    const secondNumber = parseInt(secondNumberElement.value);
+    const firstNumber = getFirstNumber();
+    const secondNumber = getSecondNumber();
 
     const answer = firstNumber - secondNumber;
-    answerElement.innerHTML = answer;
+
+    writeAnswerToScreen(answer);
   }
 
   function multiplyNumbers(){
-    const firstNumber = parseInt(firstNumberElement.value);
-    const secondNumber = parseInt(secondNumberElement.value);
+    const firstNumber = getFirstNumber();
+    const secondNumber = getSecondNumber();
 
     const answer = firstNumber * secondNumber;
-    answerElement.innerHTML = answer;
+
+    writeAnswerToScreen(answer);
   }
 
   function divideNumbers(){
-    const firstNumber = parseInt(firstNumberElement.value);
-    const secondNumber = parseInt(secondNumberElement.value);
+    const firstNumber = getFirstNumber();
+    const secondNumber = getSecondNumber();
 
     const answer = firstNumber / secondNumber;
-    answerElement.innerHTML = answer;
+
+    writeAnswerToScreen(answer);
   }
 
   function cleanNumbers() {
